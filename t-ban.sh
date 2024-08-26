@@ -49,9 +49,9 @@ echo""
 
 else
 
-cat /data/data/com.termux/files/usr/etc/bash.bashrc > /data/data/com.termux/files/home/Termux-Banner/original_bashrc.txt
+cat /data/data/com.termux/files/usr/etc/bash.bashrc > /data/data/com.termux/files/home/T-Banner/original_bashrc.txt
 
-cat /data/data/com.termux/files/usr/etc/motd > /data/data/com.termux/files/home/Termux-Banner/original_motd.txt
+cat /data/data/com.termux/files/usr/etc/motd > /data/data/com.termux/files/home/T-Banner/original_motd.txt
 
 bash t-ban.sh
 
