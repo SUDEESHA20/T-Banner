@@ -56,6 +56,9 @@ To get your default Termux Banner run the code given below
 `bash remove.sh` 
 
 ## Screenshots
+https://github.com/TechnicalB9T/T-Banner/blob/077d5d40bff94cba0813d264973ba7f717175e0b/Screenshot_20240826-142329.png
+https://github.com/TechnicalB9T/T-Banner/blob/077d5d40bff94cba0813d264973ba7f717175e0b/Screenshot_20240826-142823.png
+https://github.com/TechnicalB9T/T-Banner/blob/077d5d40bff94cba0813d264973ba7f717175e0b/Screenshot_20240826-142833.png
 
 
 ## Contributing
