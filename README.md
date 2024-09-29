@@ -80,5 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Full installation video is available on our YouTube channel 
 
 ---
+https://youtu.be/550mKWybMLc?si=EsYHMYQcNz3sc7tN
 
 This README provides a clear overview of what T-Banner does, how to install and use it, and how to contribute to the project. Customize the links and contact information to match your actual project details.
